@@ -18,7 +18,7 @@ Para quaisquer dúvidas ou detalhes, consulte a equipe de desenvolvimento.
 
 ## Comandos
 
-comandos utilizados para revisão de código
+Comandos utilizados para revisão de código [keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 | Comando | Descrição |
 | ------ | ------ |
