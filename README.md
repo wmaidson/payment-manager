@@ -1,6 +1,3 @@
-# review-IntelliJ-commands
-Reviewing commands and creating a project for testing
-
 # Gerenciador de Pagamentos
 
 Projeto para exportar relatórios de pagamentos no formato CSV e XML.
